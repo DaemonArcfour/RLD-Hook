@@ -3,9 +3,13 @@
 The code is trash, don't ever use this.
 
 This hack features:
-Autoshoot
-Spinbot
-Wallhack
-Airstuck
-Packet recorder
-...And god knows what else.
+<ul>
+  <strong>
+  <li>Autoshoot</li>
+  <li>Spinbot</li>
+  <li>Wallhack</li>
+  <li>Airstuck</li>
+  <li>Packet recorder</li>
+  </strong>
+</ul>
+<p>...And god knows what else.</p>
