@@ -13,3 +13,10 @@ This hack features:
   </strong>
 </ul>
 <p>...And god knows what else.</p>
+
+<font size="3" color="red">This project is dependent on following libraries:</font>
+<ul>
+  <li>https://github.com/TsudaKageyu/minhook</li>
+  <li>https://github.com/DaemonArcfour/RTMEditor</li>
+</ul>
+
